@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav Syunary</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [Distigo and prepPilot](https://github.com/Abhinav7579/PrepPilot)
+- 🔭 I’m currently working on GuessIT
 
 - 🌱 I’m currently learning **AI and Machine Learning**
 
