@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhinav Syunary</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on GuessIT
+- 🔭 I’m currently working on FlowPay
 
 - 🌱 I’m currently learning **AI and Machine Learning**
-
-- 👯 I’m looking to collaborate on **ML projects**
 
 - 💬 Ask me about **web dev**
 
